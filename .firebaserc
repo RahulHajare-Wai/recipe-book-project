@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "recipe-book-project-1f952": {
+      "hosting": {
+        "ng-complete-guide-update": [
+          "recipe-book-project-1f952"
+        ]
+      }
+    }
+  }
+}
